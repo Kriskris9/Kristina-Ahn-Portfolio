@@ -1,0 +1,64 @@
+
+/* Universal Selector */
+* 
+
+/* Element Selectors */
+
+header {
+    background-color: pink;
+    padding: 40px;
+    text-align: center;
+    font-size: 100%;
+    
+}
+
+nav {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: right; 
+    
+}
+
+li {
+    display: inline;
+   padding: 10px;
+}
+
+button { border: 2px solid black; }
+#background-image {
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    
+}
+
+footer {
+    background-color:  pink;
+    text-align: center;
+    padding: 40px;
+}
+
+.flexbox1 {
+    display: flex;
+    background-color: rgb(242, 242, 142);
+    margin: 10px;
+    border-radius: 10px;
+    flex-direction: row;
+    padding:200px;
+    position: relative;
+    bottom: 300px;
+    
+}
+#About-Me  {
+    Display: block;
+    margin-left: 420px;
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    position: relative;
+    bottom: 350px;
+    padding: 100px;
+    width: 50%;
+    height: 100px;
+ 
+}
