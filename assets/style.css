@@ -45,7 +45,7 @@ nav button:hover {
 #About-Me img {
     padding: 10px 0;
     margin: 5px;
-    padding: 10px 0;}
+width: 200px;}
 
 #About-Me h2 {
     text-decoration: underline;
@@ -65,7 +65,6 @@ nav button:hover {
     padding-top: 10px;
     text-decoration: underline;
 }
-
 
 h3 {
     color: black;
