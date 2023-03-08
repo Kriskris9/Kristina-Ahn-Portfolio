@@ -1,6 +1,13 @@
 * { 
     margin: 0px;
     padding:0px;
+
+h1{
+    background-color: rgb(255, 192, 243);
+    padding: 40px;
+    text-align: center;
+  
+    
 }
 
 h3 {
@@ -44,13 +51,6 @@ p {
 }
 
 
-.header {
-    background-color: rgb(255, 192, 243);
-    padding: 40px;
-    text-align: center;
-    font-size: 100%;
-    
-}
 
 #Projects img {
     height: 100%;
