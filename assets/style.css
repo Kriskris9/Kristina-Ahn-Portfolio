@@ -91,13 +91,7 @@
     border-bottom: 1px solid;
   }
   
-  #Projects img {
-    height: 100%;
-    width: 100%;
-    object-fit: none;
-    z-index: -1;
-  }
-  
+
   #ContactMe {
     text-align: center;
   }
