@@ -38,6 +38,17 @@ background-color:aquamarine }
     text-align: center;
     background-color: rgb(242, 242, 143);
 }
+#About-Me img  {
+    padding: 10px 0;
+}
+#About-Me h2 {
+    text-decoration: underline;
+}
+#About-Me p {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
 
 h3 {
     color: black;
