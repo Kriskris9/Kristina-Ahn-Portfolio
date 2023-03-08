@@ -79,7 +79,8 @@
     border-radius: 5%;
     margin-bottom: 10px; 
     border-radius: 4%;
-   
+  }
+
 .work-item h3 {
     color: black;
     background-color: aqua;
@@ -93,7 +94,6 @@
     border-bottom-right-radius: 40%;
   }
 
-  }
   .work-item img{
     max-height: 300px;
     width: 100%;
