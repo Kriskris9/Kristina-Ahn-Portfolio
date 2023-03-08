@@ -1,108 +1,118 @@
 * {
     margin: 0px;
     padding: 0px;
-}
-
-h1 {
+  }
+  
+  h1 {
     background-color: rgb(255, 192, 243);
     padding-bottom: 30px;
     padding-top: 20px;
     text-align: center;
-}
-
-nav {
+  }
+  
+  nav {
     background-color: rgb(230, 173, 177);
     padding: 20px;
     text-align: center;
-}
-
-nav li {
+  }
+  
+  nav li {
     display: inline;
     padding: 10px;
-}
-
-nav a {
+  }
+  
+  nav a {
     text-decoration: none;
     color: black;
-}
-
-nav button {
+  }
+  
+  nav button {
     padding: 10px;
     border-radius: 15px;
-}
-
-nav button:hover {
+  }
+  
+  nav button:hover {
     border: 2px solid black;
-    background-color: aquamarine
-}
-
-#About-Me {
+    background-color: aquamarine;
+  }
+  
+  #About-Me {
     display: block;
     text-align: center;
     background-color: rgb(242, 242, 143);
-}
-
-#About-Me img {
+  }
+  
+  #About-Me img {
     padding: 10px 0;
     margin: 5px;
-width: 200px;}
-
-#About-Me h2 {
+    width: 200px;
+  }
+  
+  #About-Me h2 {
     text-decoration: underline;
-}
-
-#About-Me p {
+  }
+  
+  #About-Me p {
     padding: 0 20px 20px;
-    line-height: 20px;  
-}
-
-#Projects {
+    line-height: 20px;
+  }
+  
+  #Projects {
     background-color: lightblue;
-}
-
-#Projects h2 {
+  }
+  
+  #Projects h2 {
     text-align: center;
-    padding-top: 10px;
+    padding: 10px 0 3px;
     text-decoration: underline;
-}
-
-h3 {
-    color: black;
-    margin: 0 auto;
-}
-
-#ContactMe {
-    text-align: center;
-}
-
-#contactmeheader {
-    text-align: center;
-}
-
-footer {
-    background-color: pink;
-    text-align: center;
-    padding: 60px 60px;
-    margin-top: 40px;
-}
-
-
-#Projects img {
-    height: 100%;
-    width: 100%;
-    object-fit: none;
-    z-index: -1;
-}
-
-.container {
+  }
+  
+  /* #Projects section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: stretch;
     flex-direction: column;
-}
-
-.work-item {
+  } */
+  
+  #Projects h3 {
+    color: black;
+    font-size: medium;
+    text-align: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+  }
+  
+  #Projects img {
+    height: 100%;
+    width: 100%;
+    object-fit: none;
+    z-index: -1;
+  }
+  
+  #ContactMe {
+    text-align: center;
+  }
+  
+  #contactmeheader {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: pink;
+    text-align: center;
+    padding: 60px 60px;
+    margin-top: 40px;
+  }
+  
+  /* #Projects img {
+    height: 100%;
+    width: 100%;
+    object-fit: none;
+    z-index: -1;
+  }
+  
+  .work-item {
     border: 5px solid lavender;
     color: white;
     min-height: 150px;
@@ -111,4 +121,4 @@ footer {
     align-items: flex-end;
     margin: 8px;
     font-size: 12px;
-}
+  } */
