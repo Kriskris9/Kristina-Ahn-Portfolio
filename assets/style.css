@@ -59,6 +59,7 @@
   
   #Projects {
     background-color: lightblue;
+    padding-bottom: 20px;
   }
   
   #Projects h2 {
@@ -71,26 +72,36 @@
     max-width: 90%;
     margin: 2% 5%;
   }
-
-
+  
   .work-item {
     border: 5px solid #F0EAD6;
     padding: 5px;
     border-radius: 5%;
+    margin-bottom: 10px; 
+    border-radius: 4%;
+   
+.work-item h3 {
+    color: black;
+    background-color: aqua;
+    font-size: medium;
+    text-align: center;
+    margin-bottom: 10px;
+    border: 3px solid;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+  }
+
   }
   .work-item img{
     max-height: 300px;
     width: 100%;
+    border-bottom-left-radius: 4%;
+    border-bottom-right-radius:4%;
+   
   } 
 
-  #Projects h3 {
-    color: black;
-    font-size: medium;
-    text-align: center;
-    margin-bottom: 10px;
-    border-bottom: 1px solid;
-  }
-  
 
   #ContactMe {
     text-align: center;
