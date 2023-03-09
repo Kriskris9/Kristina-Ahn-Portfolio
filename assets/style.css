@@ -161,10 +161,9 @@
     background-color: rgb(212, 212, 255);
     }
 
-   
-    
+
    #About-Me img {
-    width: 400px;
+    width: 600px;
    }
 
    .work-item h3 {
@@ -182,5 +181,5 @@
 
     padding-bottom: 5px;
   }
- 
+
   }
