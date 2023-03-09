@@ -170,17 +170,13 @@
 
     padding-bottom: 5px;
   }
-  
+
    .work-item h3 {
-    font-size: large;
-    padding: 4px;
+    font-size: larger;
+    padding: 6px;
   }
 
    .work-item img{
-    max-height: 700px;
+    max-height: 900px;
    }
-  }
- 
- 
-
   }
