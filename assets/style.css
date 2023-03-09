@@ -166,6 +166,11 @@
     width: 600px;
    }
 
+  #About-Me h2 {
+
+    padding-bottom: 5px;
+  }
+  
    .work-item h3 {
     font-size: large;
     padding: 4px;
@@ -177,9 +182,5 @@
   }
  
  
-  #About-Me h2 {
-
-    padding-bottom: 5px;
-  }
 
   }
