@@ -124,78 +124,63 @@
     nav li {
       padding: 20px;
     }
-   
-    About-Me img {
-    padding: 10px 0;
-    margin: 5px;
+
+    nav button {
+    padding: 20px;
+    background-color: rgb(212, 212, 255);
+    }
+
+     #About-Me p {
+     
+      line-height: 25px;
+    } 
+    
+   #About-Me img {
     width: 400px;
    }
 
-
    .work-item h3 {
-    color: black;
-    background-color: aqua;
     font-size: large;
-    text-align: center;
-    margin-bottom: 10px;
-    border: 3px solid;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-    border-bottom-left-radius: 40%;
-    border-bottom-right-radius: 40%;
     padding: 4px;
-
   }
 
    .work-item img{
     max-height: 700px;
-    width: 100%;
-    border-bottom-left-radius: 4%;
-    border-bottom-right-radius:4%;
-  } 
-
-  nav button {
-    padding: 20px;
- 
+   }
   }
-    }
-  
+
   
   @media screen and (min-width: 1168px) {
+ 
     nav li {
-      padding: 20px;
+      padding: 40px;
     }
+
+    nav button {
+    padding: 20px;
+    background-color: rgb(212, 212, 255);
+    }
+
    
-    About-Me img {
-  
+    
+   #About-Me img {
     width: 400px;
    }
 
-
    .work-item h3 {
-    color: black;
-    background-color: aqua;
     font-size: large;
-    text-align: center;
-    margin-bottom: 10px;
-    border: 3px solid;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-    border-bottom-left-radius: 40%;
-    border-bottom-right-radius: 40%;
     padding: 4px;
-
   }
 
    .work-item img{
     max-height: 700px;
-    width: 100%;
-    border-bottom-left-radius: 4%;
-    border-bottom-right-radius:4%;
-  } 
-
-  nav button {
-    padding: 20px;
- 
+   }
   }
+ 
+ 
+  #About-Me h2 {
+
+    padding-bottom: 5px;
+  }
+ 
   }
