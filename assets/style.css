@@ -148,7 +148,6 @@
    .work-item img{
     max-height: 700px;
    }
-  }
 
   
   @media screen and (min-width: 1168px) {
@@ -182,7 +181,5 @@
    }
   }
 
-
 h1 {
-font-size: 40px;
-  }
+font-size: 40px;}

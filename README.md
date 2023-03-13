@@ -37,3 +37,8 @@ Please refer to the LICENSE in the repo.
 
 https://kriskris9.github.io/Kristina-Ahn-Portfolio/
 
+![alt](/assets/Screenshot%202023-03-12%20at%2010.07.57%20PM.png)
+![alt](/assets/Screenshot%202023-03-12%20at%2010.08.09%20PM.png)
+![alt](/assets/Screenshot%202023-03-12%20at%2010.08.18%20PM.png)
+![alt](/assets/Screenshot%202023-03-12%20at%2010.08.28%20PM.png)
+
